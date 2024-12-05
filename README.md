@@ -17,9 +17,6 @@ O **Playwright** é uma das ferramentas mais avançadas para testes de aplicaç�
 - **JavaScript/TypeScript**: Linguagens principais do projeto.  
 - **Node.js**: Ambiente de execução.  
 
-## 🌟 Experimente  
-Clone o repositório e execute os testes para vivenciar o poder da automação no desenvolvimento de software!  
-
-📂 **Este projeto está em constante evolução. Feedbacks são muito bem-vindos!**  
+ 
 
 🌐 **Conecte-se comigo**: Não deixe de conferir outros projetos no meu GitHub e me acompanhar para mais conteúdos sobre automação e desenvolvimento! 🚀  
