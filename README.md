@@ -7,7 +7,7 @@ Bem-vindo ao repositório **Playwright Posterstore**! 🎉 Aqui você encontrar�
 🆕 **Criação de Usuário**: Testes para registro de novos usuários com diferentes combinações de dados.  
 🔒 **Senhas e Segurança**: Verificação de regras de senha e proteção contra falhas de segurança.  
 🛍️ **Gerenciamento de Produtos**: Adição, remoção e manipulação de itens no catálogo.  
-🛒 **Carrinho de Compras e Finalização de Pedido**: Testes de fluxo completo de compra, incluindo cálculo de preços e validações.  
+🛒 **Carrinho de Compras e Finalização de Pedido**: Testes de fluxo completo de compras, incluindo cálculo de preços e validações.  
 
 ## 💻 Por que Playwright?  
 O **Playwright** é uma das ferramentas mais avançadas para testes de aplicações web. Ele suporta múltiplos navegadores, como Chrome, Firefox e Safari, oferecendo estabilidade e desempenho incríveis. 🌐  
