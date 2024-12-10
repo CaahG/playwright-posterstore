@@ -33,3 +33,4 @@ test.describe('criação de usuário', () => {
         await page.locator('button[class="swal2-confirm swal2-styled"]').click();
     });
 });
+
