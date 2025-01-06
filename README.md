@@ -1,3 +1,8 @@
+<div align="center">
+  <img align="right" src="https://github.com/SeuUsuario/Playwright-posterstore/raw/main/tests/Beige%20Brown%20Texture%20Cute%20Cottagecore%20June%202023%20Organizer%20Desktop%20Wallpaper.gif" alt="Imagem" />
+</div>
+
+---
 # 🛒 Playwright Posterstore - Automação de Testes de e-Commerce 🧪  
 
 Bem-vindo ao repositório **Playwright Posterstore**! 🎉 Aqui você encontrará uma aplicação prática de testes automatizados desenvolvidos com a poderosa biblioteca **Playwright**. 🚀 Este projeto simula cenários reais de uma loja virtual, garantindo a qualidade e funcionalidade de um e-commerce.  
