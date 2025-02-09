@@ -20,7 +20,23 @@ O **Playwright** é uma das ferramentas mais avançadas para testes de aplicaç�
 ## 🛠️ Tecnologias Utilizadas  
 - **Playwright**: Para os testes automatizados.  
 - **JavaScript/TypeScript**: Linguagens principais do projeto.  
-- **Node.js**: Ambiente de execução.  
+- **Node.js**: Ambiente de execução. 
+
+## Docker
+Para executar o projeto localmente com docker, possuimos uma imagem docker já pronta para uso.
+Para isso basta clonar o projeto e execute o comando abaixo:
+
+```bash
+docker build -t playwright-posterstore .
+```
+
+E para executar os testes podemos executar o comando abaixo:
+
+```bash
+docker run -it playwright-posterstore sh -c "npx playwright test"
+```
+
+Após a execução do comando, acesse a aplicação em `http://localhost:3000`.
 
  
 
